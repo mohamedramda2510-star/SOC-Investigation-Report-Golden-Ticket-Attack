@@ -53,14 +53,18 @@ Evidence 04: AS-REP Roasting target account.
 
 
 Evidence 05: AS-REP TGT request timestamp.
+
 <img width="614" height="420" alt="Screenshot 2026-11-18 153456" src="https://github.com/user-attachments/assets/fddd0075-5114-4eb7-be7d-e52a0fddacd0" />
 
 
 Evidence 06: Golden Ticket target account (Administrator).
+
 <img width="612" height="439" alt="Screenshot 2026-11-18 153912" src="https://github.com/user-attachments/assets/9b714005-5d39-4f84-8ded-75c746a15081" />
 
 Evidence 07:At what time did the attacker try to log in using the Golden Ticket?
+
 Answer Format: (YYYY-MM-DD HH:MM:SS UTC)
+
 
 <img width="621" height="428" alt="Screenshot 2026-11-18 153853" src="https://github.com/user-attachments/assets/191ea4ac-4c36-485e-907a-a252b8b09082" />
 
